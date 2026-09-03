@@ -1,0 +1,7 @@
+package	version	role
+R	4.5.3	interpreter used to build and validate renv.lock
+renv	1.2.1	project library and lockfile management
+dplyr	1.2.1	data transformation
+grf	2.6.1	causal and instrumental forests
+readr	2.2.0	CSV input and output for R-owned exhibit data
+tidyr	1.3.2	bootstrap result reshaping

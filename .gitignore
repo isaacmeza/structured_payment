@@ -1,0 +1,72 @@
+# Restricted and derived data
+/Raw/
+/DB/
+/_aux/
+
+# Generated analysis outputs
+/Results/
+/Figures/*
+!/Figures/README.md
+!/Figures/Figure1.pdf
+!/Figures/Figure1.xlsx
+!/Figures/Figure2.pdf
+!/Figures/FigureOA1.png
+!/Figures/ToT-TUT graph.xlsx
+/Tables/*
+!/Tables/README.md
+!/Tables/TableOA7.tex
+
+# Manuscript sources kept outside the public replication repository
+/structured_payment.tex
+/OA.tex
+/References.bib
+/preamble.tex
+
+# Manuscript build products
+/output/
+/structured_payment.pdf
+/OA.pdf
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Local R state and project libraries
+/.Rproj.user/
+/.Rhistory
+/.RData
+/.Ruserdata
+/Rplots.pdf
+/renv/library/
+/renv/local/
+/renv/cellar/
+/renv/lock/
+/renv/python/
+/renv/sandbox/
+/renv/staging/
+
+# Stata session and graph files
+*.gph
+*.smcl
+*.ster
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+~$*

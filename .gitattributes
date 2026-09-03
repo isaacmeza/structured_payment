@@ -1,0 +1,26 @@
+# Normalize repository-authored text files to LF on checkout.
+* text=auto eol=lf
+
+# Preserve byte-identical third-party Stata files used by checksum verification.
+# Their upstream whitespace is intentional and must not be normalized.
+environment/stata/ado/** -text -eol linguist-vendored whitespace=-trailing-space,-space-before-tab
+
+# Mark generated dependency bootstrap code for GitHub language statistics.
+renv/activate.R linguist-generated=true whitespace=-trailing-space
+
+# Binary formats included as static assets or bundled dependencies.
+*.dta binary
+*.rds binary
+*.xls binary
+*.xlsx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.jar binary
+*.gz binary
+*.zip binary
+*.so binary
+*.dylib binary
+*.dll binary

@@ -1,0 +1,9 @@
+package	commands	source	installed_version_or_revision	primary_file_sha256	used_by
+estout	estadd;eststo;esttab	SSC	3.33 (23mar2026)	cc57869d2e78033d8dd4d436f85f4457ebfbac67553c8a2fb6c606a05ac6c392	tables
+coefplot	coefplot	SSC	1.8.8 (22aug2025)	7c555af8d3a3efa1d72861988259ca4d2b67d52516bb87d82f21f31b639517f3	appendix figures
+catplot	catplot	SSC archive; bundled compatibility copy	2.0.2 (10dec2010)	c26a0cb8637378609380fa45700b07bb9e299274550da1ec18c1c86027ea069f	appendix figure; legacy syntax
+orth_out	orth_out	SSC	2.9.4 (03feb2016)	582c5ad31e20bdb64dd6e758d6b216c3638f886042cd20830a90d9a0e87bde28	balance and attrition tables
+rforest	rforest	SSC; bundled with Java payload	2.0.3 (13apr2023)	3f3a1cea0be2caf213947a9568c8dee023f90a63c2054b7d26564171ac48db2e	supplementary wide/narrow targeting rules
+fan_park	fan_park	GitHub isaacmeza/fan_park	1.0.2; commit c2c6e83bca25ef3013c73b34c0c67502d78af72f	cd285a1c2773bec690fbba461c4bf85e723fca2f0b471abbc2cc9c4d50b53709	Fan-Park bounds
+tot_tut	tot_tut	GitHub isaacmeza/tot_tut	2.0.0; commit 04f3a69700f9c4aab5991da27934ce79679103d0	b8120313d9beab9a0722c505548c2ef05e57a12905e2c22aeae962bcf52d3801	ToT/TuT estimates
+rscript	rscript	GitHub reifjulian/rscript	1.2; commit ef486af760dd44673682fe1fccfd326454bb5ea0	3c36e22b9545fe2903d0102bb7f8b816035ed390026ec869043d9237293fa074	Stata-to-R bridge in R-backed analysis scripts
