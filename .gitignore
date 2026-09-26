@@ -6,14 +6,12 @@
 # Generated analysis outputs
 /Results/
 /Figures/*
-!/Figures/README.md
 !/Figures/Figure1.pdf
 !/Figures/Figure1.xlsx
 !/Figures/Figure2.pdf
 !/Figures/FigureOA1.png
 !/Figures/ToT-TUT graph.xlsx
 /Tables/*
-!/Tables/README.md
 !/Tables/TableOA7.tex
 
 # Manuscript sources kept outside the public replication repository
